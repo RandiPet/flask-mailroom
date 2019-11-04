@@ -1,6 +1,6 @@
 # Flask Mailroom Application
 
-Running at https://github.com/RandiPet/flask-mailroom 
+Running at http://fast-ridge-71798.herokuapp.com/donations
 
 ## Your Task
 
